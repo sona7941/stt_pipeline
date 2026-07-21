@@ -1,0 +1,110 @@
+{
+  "source_path": "audio\\call_2.mp4",
+  "transcript": {
+    "text": "Hi, Neha, please introduce yourself. Hi, I am Neha and I completed my degree recently and currently I'm looking for internship opportunities. I think these skills. I know some Python basics but I haven't used a lot of it recently and I have also learned SQL and college. but again we did not have the opportunity to go full depth in that. Okay, so have you completed any projects? Yes, yes, we have like a lot of projects in college. My team when I had worked on an application, but my teammates mostly handle the technical parts. I helped in documentation and in the presentation. So, how do you plan on improving your skills? I know I need to practice more. Currently I haven't been very consistent, but I plan to start learning again. Okay, so why are you interested in this role? I am looking for an opportunity to start my career and to gain experience through practical exposure. Okay, thank you. Thank you.",
+    "language": "en",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Hi, Neha, please introduce yourself."
+      },
+      {
+        "start": 4.0,
+        "end": 14.0,
+        "text": "Hi, I am Neha and I completed my degree recently and currently I'm looking for internship opportunities."
+      },
+      {
+        "start": 14.0,
+        "end": 18.0,
+        "text": "I think these skills."
+      },
+      {
+        "start": 18.0,
+        "end": 28.0,
+        "text": "I know some Python basics but I haven't used a lot of it recently and I have also learned SQL and college."
+      },
+      {
+        "start": 28.0,
+        "end": 35.0,
+        "text": "but again we did not have the opportunity to go full depth in that."
+      },
+      {
+        "start": 35.0,
+        "end": 40.0,
+        "text": "Okay, so have you completed any projects?"
+      },
+      {
+        "start": 40.0,
+        "end": 44.0,
+        "text": "Yes, yes, we have like a lot of projects in college."
+      },
+      {
+        "start": 44.0,
+        "end": 47.0,
+        "text": "My team when I had worked on an application,"
+      },
+      {
+        "start": 47.0,
+        "end": 51.0,
+        "text": "but my teammates mostly handle the technical parts."
+      },
+      {
+        "start": 51.0,
+        "end": 56.0,
+        "text": "I helped in documentation and in the presentation."
+      },
+      {
+        "start": 56.0,
+        "end": 61.0,
+        "text": "So, how do you plan on improving your skills?"
+      },
+      {
+        "start": 61.0,
+        "end": 72.0,
+        "text": "I know I need to practice more. Currently I haven't been very consistent, but I plan to start learning again."
+      },
+      {
+        "start": 72.0,
+        "end": 76.0,
+        "text": "Okay, so why are you interested in this role?"
+      },
+      {
+        "start": 76.0,
+        "end": 87.0,
+        "text": "I am looking for an opportunity to start my career and to gain experience through practical exposure."
+      },
+      {
+        "start": 87.0,
+        "end": 89.0,
+        "text": "Okay, thank you."
+      },
+      {
+        "start": 89.0,
+        "end": 91.0,
+        "text": "Thank you."
+      }
+    ]
+  },
+  "score": {
+    "score": 72,
+    "verdict": "hold",
+    "reasons": [
+      "The candidate references multiple relevant skills or tools.",
+      "The candidate provides concrete project or experience signals.",
+      "The candidate expresses clear motivation and growth mindset.",
+      "The candidate uses confident first-person statements about experience or capability."
+    ],
+    "recommendations": [
+      "This candidate is borderline and should be held for additional review."
+    ]
+  },
+  "sentiment": {
+    "compound": 0.9902,
+    "positive": 0.221,
+    "neutral": 0.764,
+    "negative": 0.015,
+    "label": "positive",
+    "summary": "The call transcript carries an overall positive tone."
+  }
+}

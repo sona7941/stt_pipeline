@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/call_stt_pipeline.egg-info/PKG-INFO
+src/call_stt_pipeline.egg-info/SOURCES.txt
+src/call_stt_pipeline.egg-info/dependency_links.txt
+src/call_stt_pipeline.egg-info/top_level.txt
+src/stt_pipeline/__init__.py
+src/stt_pipeline/cli.py
+src/stt_pipeline/ffmpeg_utils.py
+src/stt_pipeline/models.py
+src/stt_pipeline/pipeline.py
+src/stt_pipeline/scoring.py
+src/stt_pipeline/transcriber.py
+tests/test_scoring.py

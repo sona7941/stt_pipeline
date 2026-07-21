@@ -1,0 +1,161 @@
+{
+  "input_dir": "audio",
+  "model_name": "base",
+  "language": null,
+  "device": null,
+  "shortlist_ratio": 0.25,
+  "review_ratio": 0.2,
+  "call_count": 5,
+  "calls": [
+    {
+      "rank": 1,
+      "batch_decision": "recommended_shortlist",
+      "batch_reason": "Rank 1 of 5 and within the top 1 candidates.",
+      "source_path": "audio\\call_4.mp4",
+      "score": {
+        "score": 90,
+        "verdict": "shortlist",
+        "reasons": [
+          "The candidate references multiple relevant skills or tools.",
+          "The candidate provides concrete project or experience signals.",
+          "The candidate expresses clear motivation and growth mindset.",
+          "The candidate makes at least one confident capability statement.",
+          "The interview contains active back-and-forth, which is usually helpful for evaluation."
+        ],
+        "recommendations": [
+          "This candidate looks suitable to shortlist for the next round."
+        ]
+      },
+      "sentiment": {
+        "compound": 0.9946,
+        "positive": 0.21,
+        "neutral": 0.749,
+        "negative": 0.041,
+        "label": "positive",
+        "summary": "The call transcript carries an overall positive tone."
+      },
+      "transcript_path": "output\\transcripts\\call_4.txt",
+      "transcript_json_path": "output\\transcripts\\call_4.json"
+    },
+    {
+      "rank": 2,
+      "batch_decision": "needs_review",
+      "batch_reason": "Rank 2 of 5 and within the review band after the shortlist cutoff.",
+      "source_path": "audio\\call_1.mp4",
+      "score": {
+        "score": 86,
+        "verdict": "shortlist",
+        "reasons": [
+          "The candidate references multiple relevant skills or tools.",
+          "The candidate provides concrete project or experience signals.",
+          "The candidate expresses clear motivation and growth mindset.",
+          "The candidate uses confident first-person statements about experience or capability.",
+          "The interview contains active back-and-forth, which is usually helpful for evaluation."
+        ],
+        "recommendations": [
+          "This candidate looks suitable to shortlist for the next round."
+        ]
+      },
+      "sentiment": {
+        "compound": 0.9921,
+        "positive": 0.221,
+        "neutral": 0.751,
+        "negative": 0.027,
+        "label": "positive",
+        "summary": "The call transcript carries an overall positive tone."
+      },
+      "transcript_path": "output\\transcripts\\call_1.txt",
+      "transcript_json_path": "output\\transcripts\\call_1.json"
+    },
+    {
+      "rank": 3,
+      "batch_decision": "do_not_shortlist",
+      "batch_reason": "Rank 3 of 5 and below the shortlist and review bands.",
+      "source_path": "audio\\call_5.mp4",
+      "score": {
+        "score": 76,
+        "verdict": "shortlist",
+        "reasons": [
+          "The candidate references multiple relevant skills or tools.",
+          "The candidate provides concrete project or experience signals.",
+          "The candidate expresses some motivation for the role.",
+          "The candidate uses confident first-person statements about experience or capability.",
+          "The interview contains active back-and-forth, which is usually helpful for evaluation."
+        ],
+        "recommendations": [
+          "This candidate looks suitable to shortlist for the next round."
+        ]
+      },
+      "sentiment": {
+        "compound": 0.989,
+        "positive": 0.196,
+        "neutral": 0.786,
+        "negative": 0.018,
+        "label": "positive",
+        "summary": "The call transcript carries an overall positive tone."
+      },
+      "transcript_path": "output\\transcripts\\call_5.txt",
+      "transcript_json_path": "output\\transcripts\\call_5.json"
+    },
+    {
+      "rank": 4,
+      "batch_decision": "do_not_shortlist",
+      "batch_reason": "Rank 4 of 5 and below the shortlist and review bands.",
+      "source_path": "audio\\call_3.mp4",
+      "score": {
+        "score": 74,
+        "verdict": "hold",
+        "reasons": [
+          "The candidate references multiple relevant skills or tools.",
+          "The candidate provides concrete project or experience signals.",
+          "The candidate expresses clear motivation and growth mindset.",
+          "The candidate makes at least one confident capability statement.",
+          "The interview contains active back-and-forth, which is usually helpful for evaluation."
+        ],
+        "recommendations": [
+          "The candidate shows gaps that should be probed before shortlisting.",
+          "This candidate is borderline and should be held for additional review."
+        ]
+      },
+      "sentiment": {
+        "compound": 0.961,
+        "positive": 0.146,
+        "neutral": 0.854,
+        "negative": 0.0,
+        "label": "positive",
+        "summary": "The call transcript carries an overall positive tone."
+      },
+      "transcript_path": "output\\transcripts\\call_3.txt",
+      "transcript_json_path": "output\\transcripts\\call_3.json"
+    },
+    {
+      "rank": 5,
+      "batch_decision": "do_not_shortlist",
+      "batch_reason": "Rank 5 of 5 and below the shortlist and review bands.",
+      "source_path": "audio\\call_2.mp4",
+      "score": {
+        "score": 72,
+        "verdict": "hold",
+        "reasons": [
+          "The candidate references multiple relevant skills or tools.",
+          "The candidate provides concrete project or experience signals.",
+          "The candidate expresses clear motivation and growth mindset.",
+          "The candidate uses confident first-person statements about experience or capability."
+        ],
+        "recommendations": [
+          "This candidate is borderline and should be held for additional review."
+        ]
+      },
+      "sentiment": {
+        "compound": 0.9902,
+        "positive": 0.221,
+        "neutral": 0.764,
+        "negative": 0.015,
+        "label": "positive",
+        "summary": "The call transcript carries an overall positive tone."
+      },
+      "transcript_path": "output\\transcripts\\call_2.txt",
+      "transcript_json_path": "output\\transcripts\\call_2.json"
+    }
+  ]
+}

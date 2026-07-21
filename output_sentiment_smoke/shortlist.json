@@ -1,0 +1,25 @@
+{
+  "input_dir": "c:\\Users\\Sona mathew\\Desktop\\Project_1\\tmp_sentiment_smoke",
+  "model_name": "tiny",
+  "shortlist_ratio": 0.1,
+  "review_ratio": 0.2,
+  "shortlist_count": 1,
+  "candidates": [
+    {
+      "rank": 1,
+      "source_path": "c:\\Users\\Sona mathew\\Desktop\\Project_1\\tmp_sentiment_smoke\\call_1.mp4",
+      "score": 87,
+      "verdict": "shortlist",
+      "batch_reason": "Rank 1 of 1 and within the top 1 candidates.",
+      "sentiment": {
+        "compound": 0.9908,
+        "positive": 0.212,
+        "neutral": 0.76,
+        "negative": 0.028,
+        "label": "positive",
+        "summary": "The call transcript carries an overall positive tone."
+      },
+      "transcript_path": "c:\\Users\\Sona mathew\\Desktop\\Project_1\\output_sentiment_smoke\\transcripts\\call_1.txt"
+    }
+  ]
+}

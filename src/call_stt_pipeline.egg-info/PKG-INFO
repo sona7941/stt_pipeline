@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: call-stt-pipeline
+Version: 0.1.0
+Summary: Speech-to-text pipeline for call recordings with sales-call quality scoring
+Requires-Python: >=3.11

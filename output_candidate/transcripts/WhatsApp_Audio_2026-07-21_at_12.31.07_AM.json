@@ -1,0 +1,98 @@
+{
+  "source_path": "audio\\WhatsApp Audio 2026-07-21 at 12.31.07 AM.mp4",
+  "transcript": {
+    "text": "Hi, Shweta. Can you tell me about yourself? Hi, yes. My name is Shweta. I recently completed my degree in computer science. I've learned programming databases and some basics of machine learning during my studies. Have you worked on any projects? Yes, yes. I had worked on this basic student performance prediction project. So in that we had like collected student data and cleaned it and used machine learning algorithms to predict performance. So in that through that, I understood the overall workflow, but I still need to improve my knowledge on advanced concepts. What kind of tools are you comfortable with? I have used Python, Pandas and SQL and I also have some experience with visualization libraries, but I kind of need more practice. Okay, so apart from your college products, what are you currently learning? I am currently working on improving my machine learning concepts and practicing more coding problems. Why should we select you? I want exposure to real world projects because most of my experience so far has been a I believe this internship will help me improve. Okay, thank you Shweta, that was good to have you.",
+    "language": "en",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.5,
+        "text": "Hi, Shweta. Can you tell me about yourself?"
+      },
+      {
+        "start": 5.5,
+        "end": 13.5,
+        "text": "Hi, yes. My name is Shweta. I recently completed my degree in computer science."
+      },
+      {
+        "start": 13.5,
+        "end": 19.5,
+        "text": "I've learned programming databases and some basics of machine learning during my studies."
+      },
+      {
+        "start": 19.5,
+        "end": 22.5,
+        "text": "Have you worked on any projects?"
+      },
+      {
+        "start": 22.5,
+        "end": 39.5,
+        "text": "Yes, yes. I had worked on this basic student performance prediction project. So in that we had like collected student data and cleaned it and used machine learning algorithms to predict performance."
+      },
+      {
+        "start": 39.5,
+        "end": 48.5,
+        "text": "So in that through that, I understood the overall workflow, but I still need to improve my knowledge on advanced concepts."
+      },
+      {
+        "start": 48.5,
+        "end": 51.5,
+        "text": "What kind of tools are you comfortable with?"
+      },
+      {
+        "start": 51.5,
+        "end": 64.5,
+        "text": "I have used Python, Pandas and SQL and I also have some experience with visualization libraries, but I kind of need more practice."
+      },
+      {
+        "start": 64.5,
+        "end": 71.5,
+        "text": "Okay, so apart from your college products, what are you currently learning?"
+      },
+      {
+        "start": 71.5,
+        "end": 78.5,
+        "text": "I am currently working on improving my machine learning concepts and practicing more coding"
+      },
+      {
+        "start": 78.5,
+        "end": 81.5,
+        "text": "problems."
+      },
+      {
+        "start": 81.5,
+        "end": 83.5,
+        "text": "Why should we select you?"
+      },
+      {
+        "start": 83.5,
+        "end": 90.5,
+        "text": "I want exposure to real world projects because most of my experience so far has been a"
+      },
+      {
+        "start": 90.5,
+        "end": 94.5,
+        "text": "I believe this internship will help me improve."
+      },
+      {
+        "start": 94.5,
+        "end": 98.5,
+        "text": "Okay, thank you Shweta, that was good to have you."
+      }
+    ]
+  },
+  "score": {
+    "score": 76,
+    "verdict": "shortlist",
+    "reasons": [
+      "The candidate references multiple relevant skills or tools.",
+      "The candidate provides concrete project or experience signals.",
+      "The candidate expresses some motivation for the role.",
+      "The candidate uses confident first-person statements about experience or capability.",
+      "The interview contains active back-and-forth, which is usually helpful for evaluation."
+    ],
+    "recommendations": [
+      "This candidate looks suitable to shortlist for the next round."
+    ]
+  }
+}

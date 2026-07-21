@@ -1,0 +1,112 @@
+{
+  "source_path": "audio\\call_3.mp4",
+  "transcript": {
+    "text": "Hi, Shrepa. Can you please introduce yourself? Hi, my name is Sita and I recently just completed my degree. Okay. So, what skills do you have? I don't have as much technical skills currently. We had done some programming in college but then get the chance to work in depth and learn more in depth about that. So have you done any projects here in your college? Not really, we had assignments but not much in terms of projects. So are you familiar with Python SQL or machine learning? Now, how about them and maybe we'll turn it a little bit, but have it tactically. Okay, so why are you applying for this internship? I am looking for a job opportunity and I wanted to try to apply. Okay, thank you Shrela. Thank you.",
+    "language": "en",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Hi, Shrepa."
+      },
+      {
+        "start": 3.5,
+        "end": 5.5,
+        "text": "Can you please introduce yourself?"
+      },
+      {
+        "start": 5.5,
+        "end": 12.08,
+        "text": "Hi, my name is Sita and I recently just completed my degree."
+      },
+      {
+        "start": 12.08,
+        "end": 13.08,
+        "text": "Okay."
+      },
+      {
+        "start": 13.08,
+        "end": 19.16,
+        "text": "So, what skills do you have?"
+      },
+      {
+        "start": 19.16,
+        "end": 24.2,
+        "text": "I don't have as much technical skills currently."
+      },
+      {
+        "start": 24.2,
+        "end": 30.919999999999998,
+        "text": "We had done some programming in college but then get the chance to work in depth and learn"
+      },
+      {
+        "start": 30.919999999999998,
+        "end": 34.36,
+        "text": "more in depth about that."
+      },
+      {
+        "start": 34.36,
+        "end": 39.64,
+        "text": "So have you done any projects here in your college?"
+      },
+      {
+        "start": 39.64,
+        "end": 47.879999999999995,
+        "text": "Not really, we had assignments but not much in terms of projects."
+      },
+      {
+        "start": 47.879999999999995,
+        "end": 53.760000000000005,
+        "text": "So are you familiar with Python SQL or machine learning?"
+      },
+      {
+        "start": 53.76,
+        "end": 59.76,
+        "text": "Now, how about them and maybe we'll turn it a little bit, but have it tactically."
+      },
+      {
+        "start": 59.76,
+        "end": 65.52,
+        "text": "Okay, so why are you applying for this internship?"
+      },
+      {
+        "start": 65.52,
+        "end": 72.56,
+        "text": "I am looking for a job opportunity and I wanted to try to apply."
+      },
+      {
+        "start": 72.56,
+        "end": 76.8,
+        "text": "Okay, thank you Shrela."
+      },
+      {
+        "start": 76.8,
+        "end": 77.8,
+        "text": "Thank you."
+      }
+    ]
+  },
+  "score": {
+    "score": 74,
+    "verdict": "hold",
+    "reasons": [
+      "The candidate references multiple relevant skills or tools.",
+      "The candidate provides concrete project or experience signals.",
+      "The candidate expresses clear motivation and growth mindset.",
+      "The candidate makes at least one confident capability statement.",
+      "The interview contains active back-and-forth, which is usually helpful for evaluation."
+    ],
+    "recommendations": [
+      "The candidate shows gaps that should be probed before shortlisting.",
+      "This candidate is borderline and should be held for additional review."
+    ]
+  },
+  "sentiment": {
+    "compound": 0.961,
+    "positive": 0.146,
+    "neutral": 0.854,
+    "negative": 0.0,
+    "label": "positive",
+    "summary": "The call transcript carries an overall positive tone."
+  }
+}

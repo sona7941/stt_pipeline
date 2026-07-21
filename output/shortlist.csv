@@ -1,0 +1,6 @@
+candidate_name,score,decision,sentiment,compound_score
+call_4,90,recommended_shortlist,positive,0.99
+call_1,86,needs_review,positive,0.99
+call_5,76,do_not_shortlist,positive,0.99
+call_3,74,do_not_shortlist,positive,0.96
+call_2,72,do_not_shortlist,positive,0.99

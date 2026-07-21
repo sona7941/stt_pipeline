@@ -1,0 +1,138 @@
+{
+  "source_path": "audio\\WhatsApp Audio 2026-07-21 at 12.31.06 AM (1).mp4",
+  "transcript": {
+    "text": "Hi, Risa. Can you please introduce yourself? Hi, my name is Risa. I recently completed my bachelor's in computer science and during college, I had become like interested in data analytics and machine learning. So I currently have experience with Python, SQL, Excel and basic machine learning algorithms. Okay. Will you be able to explain one of your projects right So I had worked on a sales prediction project where I had analyzed historical sales data and built a model to predict future sales. I performed data cleaning, visualization and also lecturing regression models. It helped me understand how data can help in decision making. Okay, so what were the challenges you faced here? The main challenge was dealing with missing values and understanding which features were actually useful. I try different approaches and compare the results. Okay. Can you please tell me what your strengths? I believe that my willingness to learn and my problem solving ability are my core strengths. if I don't know something, I try to understand it rather than ignore it. Okay. So why should we select you? I believe that I have a good foundation and I'm eager to learn and improve and hone my skills through practical experience and I believe that I can adapt quickly and contribute to the team in a big way. Okay, so that's it. Have a good day. Thank you.",
+    "language": "en",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.4,
+        "text": "Hi, Risa. Can you please introduce yourself?"
+      },
+      {
+        "start": 6.4,
+        "end": 11.3,
+        "text": "Hi, my name is Risa. I recently completed my bachelor's in"
+      },
+      {
+        "start": 11.3,
+        "end": 15.0,
+        "text": "computer science and during college, I had become like"
+      },
+      {
+        "start": 15.0,
+        "end": 19.3,
+        "text": "interested in data analytics and machine learning. So I"
+      },
+      {
+        "start": 19.3,
+        "end": 23.6,
+        "text": "currently have experience with Python, SQL, Excel and basic"
+      },
+      {
+        "start": 23.6,
+        "end": 25.3,
+        "text": "machine learning algorithms."
+      },
+      {
+        "start": 26.0,
+        "end": 29.1,
+        "text": "Okay. Will you be able to explain one of your projects right"
+      },
+      {
+        "start": 29.1,
+        "end": 42.1,
+        "text": "So I had worked on a sales prediction project where I had analyzed historical sales data and built a model to predict future sales."
+      },
+      {
+        "start": 42.1,
+        "end": 48.1,
+        "text": "I performed data cleaning, visualization and also lecturing regression models."
+      },
+      {
+        "start": 48.1,
+        "end": 52.1,
+        "text": "It helped me understand how data can help in decision making."
+      },
+      {
+        "start": 52.1,
+        "end": 56.1,
+        "text": "Okay, so what were the challenges you faced here?"
+      },
+      {
+        "start": 56.1,
+        "end": 61.94,
+        "text": "The main challenge was dealing with missing values and understanding which features were"
+      },
+      {
+        "start": 61.94,
+        "end": 63.7,
+        "text": "actually useful."
+      },
+      {
+        "start": 63.7,
+        "end": 67.74000000000001,
+        "text": "I try different approaches and compare the results."
+      },
+      {
+        "start": 67.74000000000001,
+        "end": 69.14,
+        "text": "Okay."
+      },
+      {
+        "start": 69.14,
+        "end": 73.98,
+        "text": "Can you please tell me what your strengths?"
+      },
+      {
+        "start": 73.98,
+        "end": 81.78,
+        "text": "I believe that my willingness to learn and my problem solving ability are my core strengths."
+      },
+      {
+        "start": 81.78,
+        "end": 87.22,
+        "text": "if I don't know something, I try to understand it rather than ignore it."
+      },
+      {
+        "start": 87.22,
+        "end": 97.1,
+        "text": "Okay. So why should we select you? I believe that I have a good foundation and I'm eager"
+      },
+      {
+        "start": 97.1,
+        "end": 103.22,
+        "text": "to learn and improve and hone my skills through practical experience and I believe that I"
+      },
+      {
+        "start": 103.22,
+        "end": 108.18,
+        "text": "can adapt quickly and contribute to the team in a big way."
+      },
+      {
+        "start": 108.18,
+        "end": 112.18,
+        "text": "Okay, so that's it. Have a good day."
+      },
+      {
+        "start": 112.18,
+        "end": 114.18,
+        "text": "Thank you."
+      }
+    ]
+  },
+  "score": {
+    "score": 86,
+    "verdict": "shortlist",
+    "reasons": [
+      "The candidate references multiple relevant skills or tools.",
+      "The candidate provides concrete project or experience signals.",
+      "The candidate expresses clear motivation and growth mindset.",
+      "The candidate uses confident first-person statements about experience or capability.",
+      "The interview contains active back-and-forth, which is usually helpful for evaluation."
+    ],
+    "recommendations": [
+      "This candidate looks suitable to shortlist for the next round."
+    ]
+  }
+}

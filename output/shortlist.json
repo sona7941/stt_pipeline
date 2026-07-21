@@ -1,0 +1,25 @@
+{
+  "input_dir": "audio",
+  "model_name": "base",
+  "shortlist_ratio": 0.25,
+  "review_ratio": 0.2,
+  "shortlist_count": 1,
+  "candidates": [
+    {
+      "rank": 1,
+      "source_path": "audio\\call_4.mp4",
+      "score": 90,
+      "verdict": "shortlist",
+      "batch_reason": "Rank 1 of 5 and within the top 1 candidates.",
+      "sentiment": {
+        "compound": 0.9946,
+        "positive": 0.21,
+        "neutral": 0.749,
+        "negative": 0.041,
+        "label": "positive",
+        "summary": "The call transcript carries an overall positive tone."
+      },
+      "transcript_path": "output\\transcripts\\call_4.txt"
+    }
+  ]
+}

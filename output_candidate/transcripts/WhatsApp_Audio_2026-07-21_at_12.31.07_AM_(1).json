@@ -1,0 +1,213 @@
+{
+  "source_path": "audio\\WhatsApp Audio 2026-07-21 at 12.31.07 AM (1).mp4",
+  "transcript": {
+    "text": "Hi, Ranya. Can you start by introducing yourself? Hi, yes, yes. Thank you for having me. My name is Ananya and I just recently completed my Masters in Data Science. During my studies, I developed a strong interest in using data to solve business problems. I work with Python SQL machine learning and some visualization tools like Power BI. Okay, that's good to hear. Can you tell me about the project you worked on? Of course. One project that I had worked on was predicting customer churn for a telecom company. I started by cleaning the data set, handling missing values and analyzing customer behavior patterns. And after feature engineering, I trained different machine learning models and compare their performance. The main challenge was kind of trying to understand or improving the models ability. If I customize who were most likely to lead. Okay, so how do you evaluate your model here? Since it was like a classification problem, I didn't really rely on accuracy. I looked at position, recall, and F1 score because the data set was imbalanced. I also use confusion matrices to understand where exactly the model was making mistakes. Okay, that's good. So how do you keep yourself updated with new technologies? I usually try to follow technical blogs and like the documentation and I also try to like implement all these concepts and I learn through small projects and I believe that continuous learning is important because you know technology is very dynamic and changes very quickly. Okay, so last question, why you're interested in this internship? I want to gain practical and the state experience and understand how data science is applied to real business problems. And I want to learn that from experienced people and contribute wherever I can to the best of my communities. Okay. Thank you, Leah. Have a good day. Thank you.",
+    "language": "en",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.0,
+        "text": "Hi, Ranya. Can you start by introducing yourself?"
+      },
+      {
+        "start": 8.0,
+        "end": 11.0,
+        "text": "Hi, yes, yes. Thank you for having me."
+      },
+      {
+        "start": 11.0,
+        "end": 18.0,
+        "text": "My name is Ananya and I just recently completed my Masters in Data Science."
+      },
+      {
+        "start": 18.0,
+        "end": 24.0,
+        "text": "During my studies, I developed a strong interest in using data to solve business problems."
+      },
+      {
+        "start": 24.0,
+        "end": 27.76,
+        "text": "I work with Python SQL machine learning and"
+      },
+      {
+        "start": 27.76,
+        "end": 31.96,
+        "text": "some visualization tools like Power BI."
+      },
+      {
+        "start": 31.96,
+        "end": 33.64,
+        "text": "Okay, that's good to hear."
+      },
+      {
+        "start": 33.64,
+        "end": 36.480000000000004,
+        "text": "Can you tell me about the project you worked on?"
+      },
+      {
+        "start": 36.480000000000004,
+        "end": 37.84,
+        "text": "Of course."
+      },
+      {
+        "start": 37.84,
+        "end": 40.879999999999995,
+        "text": "One project that I had worked on was predicting"
+      },
+      {
+        "start": 40.879999999999995,
+        "end": 43.68,
+        "text": "customer churn for a telecom company."
+      },
+      {
+        "start": 43.68,
+        "end": 46.16,
+        "text": "I started by cleaning the data set,"
+      },
+      {
+        "start": 46.16,
+        "end": 50.879999999999995,
+        "text": "handling missing values and analyzing customer behavior patterns."
+      },
+      {
+        "start": 50.88,
+        "end": 57.88,
+        "text": "And after feature engineering, I trained different machine learning models and compare their performance."
+      },
+      {
+        "start": 57.88,
+        "end": 63.88,
+        "text": "The main challenge was kind of trying to understand or improving the models ability."
+      },
+      {
+        "start": 63.88,
+        "end": 68.88,
+        "text": "If I customize who were most likely to lead."
+      },
+      {
+        "start": 68.88,
+        "end": 72.88,
+        "text": "Okay, so how do you evaluate your model here?"
+      },
+      {
+        "start": 72.88,
+        "end": 78.39999999999999,
+        "text": "Since it was like a classification problem,"
+      },
+      {
+        "start": 78.39999999999999,
+        "end": 81.6,
+        "text": "I didn't really rely on accuracy."
+      },
+      {
+        "start": 81.6,
+        "end": 84.6,
+        "text": "I looked at position, recall,"
+      },
+      {
+        "start": 84.6,
+        "end": 89.39999999999999,
+        "text": "and F1 score because the data set was imbalanced."
+      },
+      {
+        "start": 89.39999999999999,
+        "end": 92.03999999999999,
+        "text": "I also use confusion matrices to"
+      },
+      {
+        "start": 92.03999999999999,
+        "end": 96.39999999999999,
+        "text": "understand where exactly the model was making mistakes."
+      },
+      {
+        "start": 96.39999999999999,
+        "end": 98.25999999999999,
+        "text": "Okay, that's good."
+      },
+      {
+        "start": 98.25999999999999,
+        "end": 102.64,
+        "text": "So how do you keep yourself updated with new technologies?"
+      },
+      {
+        "start": 102.64,
+        "end": 110.16,
+        "text": "I usually try to follow technical blogs and like the documentation and I also try to"
+      },
+      {
+        "start": 110.16,
+        "end": 116.28,
+        "text": "like implement all these concepts and I learn through small projects and I believe that"
+      },
+      {
+        "start": 116.28,
+        "end": 122.08,
+        "text": "continuous learning is important because you know technology is very dynamic and changes"
+      },
+      {
+        "start": 122.08,
+        "end": 123.08,
+        "text": "very quickly."
+      },
+      {
+        "start": 123.08,
+        "end": 131.0,
+        "text": "Okay, so last question, why you're interested in this internship?"
+      },
+      {
+        "start": 131.0,
+        "end": 138.2,
+        "text": "I want to gain practical and the state experience and understand how data science is applied"
+      },
+      {
+        "start": 138.2,
+        "end": 140.76,
+        "text": "to real business problems."
+      },
+      {
+        "start": 140.76,
+        "end": 145.96,
+        "text": "And I want to learn that from experienced people and contribute wherever I can to the"
+      },
+      {
+        "start": 145.96,
+        "end": 148.2,
+        "text": "best of my communities."
+      },
+      {
+        "start": 148.2,
+        "end": 149.2,
+        "text": "Okay."
+      },
+      {
+        "start": 149.2,
+        "end": 150.2,
+        "text": "Thank you, Leah."
+      },
+      {
+        "start": 150.2,
+        "end": 151.2,
+        "text": "Have a good day."
+      },
+      {
+        "start": 151.2,
+        "end": 152.2,
+        "text": "Thank you."
+      }
+    ]
+  },
+  "score": {
+    "score": 90,
+    "verdict": "shortlist",
+    "reasons": [
+      "The candidate references multiple relevant skills or tools.",
+      "The candidate provides concrete project or experience signals.",
+      "The candidate expresses clear motivation and growth mindset.",
+      "The candidate makes at least one confident capability statement.",
+      "The interview contains active back-and-forth, which is usually helpful for evaluation."
+    ],
+    "recommendations": [
+      "This candidate looks suitable to shortlist for the next round."
+    ]
+  }
+}

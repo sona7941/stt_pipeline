@@ -1,0 +1,131 @@
+{
+  "source_path": "c:\\Users\\Sona mathew\\Desktop\\Project_1\\tmp_sentiment_smoke\\call_1.mp4",
+  "transcript": {
+    "text": "Hi, Lisa. Can you please introduce yourself? Hi, my name is Lisa. I recently completed my Bachelor's in Computer Science. And during college I had become interested in data analytics and machine learning. So I currently have experience with Python, SQL, Excel, and basic machine learning. Okay, will you be able to explain one of your projects right now? Sure. So I had worked on a sales prediction project where I had analyzed historical sales data and built a model to predict future deals. I performed data cleaning, visualization, and also like train regression models. It helped me understand how data can help in decision-making. Okay, so what were the challenges you faced here? The main challenge was dealing with missing values and understanding which features were actually useful. I tried different approaches and compared the results. Okay. Can you please tell me what your strengths? I believe that my willingness to learn and my problems solving ability are my co-estrends. Even if I don't know something, I try to understand it rather than ignore it. Okay. So why should we select you? I believe that I have a good foundation and I am eager to learn and improve and home my skills through practical experience and I believe that I can adapt quickly and contribute to the team in a big way. Okay, so that's it. Haragurde. Thank you.",
+    "language": "en",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Hi, Lisa. Can you please introduce yourself?"
+      },
+      {
+        "start": 5.0,
+        "end": 12.0,
+        "text": "Hi, my name is Lisa. I recently completed my Bachelor's in Computer Science."
+      },
+      {
+        "start": 12.0,
+        "end": 18.0,
+        "text": "And during college I had become interested in data analytics and machine learning."
+      },
+      {
+        "start": 18.0,
+        "end": 25.0,
+        "text": "So I currently have experience with Python, SQL, Excel, and basic machine learning."
+      },
+      {
+        "start": 25.0,
+        "end": 30.0,
+        "text": "Okay, will you be able to explain one of your projects right now?"
+      },
+      {
+        "start": 30.0,
+        "end": 37.76,
+        "text": "Sure. So I had worked on a sales prediction project where I had analyzed historical"
+      },
+      {
+        "start": 37.76,
+        "end": 45.760000000000005,
+        "text": "sales data and built a model to predict future deals. I performed data cleaning, visualization,"
+      },
+      {
+        "start": 45.760000000000005,
+        "end": 53.0,
+        "text": "and also like train regression models. It helped me understand how data can help in decision-making."
+      },
+      {
+        "start": 53.0,
+        "end": 56.0,
+        "text": "Okay, so what were the challenges you faced here?"
+      },
+      {
+        "start": 57.0,
+        "end": 63.0,
+        "text": "The main challenge was dealing with missing values and understanding which features were actually useful."
+      },
+      {
+        "start": 63.0,
+        "end": 67.0,
+        "text": "I tried different approaches and compared the results."
+      },
+      {
+        "start": 68.0,
+        "end": 69.0,
+        "text": "Okay."
+      },
+      {
+        "start": 69.0,
+        "end": 72.0,
+        "text": "Can you please tell me what your strengths?"
+      },
+      {
+        "start": 72.0,
+        "end": 81.68,
+        "text": "I believe that my willingness to learn and my problems solving ability are my co-estrends."
+      },
+      {
+        "start": 81.68,
+        "end": 88.6,
+        "text": "Even if I don't know something, I try to understand it rather than ignore it."
+      },
+      {
+        "start": 88.6,
+        "end": 89.6,
+        "text": "Okay."
+      },
+      {
+        "start": 89.6,
+        "end": 92.2,
+        "text": "So why should we select you?"
+      },
+      {
+        "start": 92.2,
+        "end": 98.48,
+        "text": "I believe that I have a good foundation and I am eager to learn and improve and"
+      },
+      {
+        "start": 98.48,
+        "end": 105.76,
+        "text": "home my skills through practical experience and I believe that I can adapt quickly and contribute"
+      },
+      {
+        "start": 105.76,
+        "end": 113.04,
+        "text": "to the team in a big way. Okay, so that's it. Haragurde. Thank you."
+      }
+    ]
+  },
+  "score": {
+    "score": 87,
+    "verdict": "shortlist",
+    "reasons": [
+      "The candidate references multiple relevant skills or tools.",
+      "The candidate provides concrete project or experience signals.",
+      "The candidate expresses clear motivation and growth mindset.",
+      "The candidate uses confident first-person statements about experience or capability.",
+      "The interview contains active back-and-forth, which is usually helpful for evaluation."
+    ],
+    "recommendations": [
+      "This candidate looks suitable to shortlist for the next round."
+    ]
+  },
+  "sentiment": {
+    "compound": 0.9908,
+    "positive": 0.212,
+    "neutral": 0.76,
+    "negative": 0.028,
+    "label": "positive",
+    "summary": "The call transcript carries an overall positive tone."
+  }
+}
